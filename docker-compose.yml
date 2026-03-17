@@ -1,0 +1,55 @@
+services:
+  # ============================================================
+  # Noeud Master Spark
+  # Le master coordonne le cluster et distribue les tâches
+  # ============================================================
+  spark-master:
+    build: .
+    container_name: spark-master
+    command: /opt/spark/sbin/start-master.sh
+    environment:
+      - SPARK_MASTER_HOST=spark-master
+      - SPARK_MASTER_PORT=7077
+      - SPARK_NO_DAEMONIZE=true
+    ports:
+      - "8080:8080"   # Web UI du Master
+      - "7077:7077"   # Port de communication du Master
+    volumes:
+      - ./data:/opt/spark-data
+
+  # ============================================================
+  # Worker 1 - Exécute les tâches distribuées par le master
+  # ============================================================
+  spark-worker-1:
+    build: .
+    container_name: spark-worker-1
+    command: /opt/spark/sbin/start-worker.sh spark://spark-master:7077
+    environment:
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_WORKER_CORES=1
+      - SPARK_NO_DAEMONIZE=true
+    ports:
+      - "8081:8081"   # Web UI du Worker 1
+    depends_on:
+      - spark-master
+    volumes:
+      - ./data:/opt/spark-data
+
+  # ============================================================
+  # Worker 2 - Deuxième noeud pour montrer la distribution
+  # ============================================================
+  spark-worker-2:
+    build: .
+    container_name: spark-worker-2
+    command: /opt/spark/sbin/start-worker.sh spark://spark-master:7077
+    environment:
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_WORKER_CORES=1
+      - SPARK_WORKER_WEBUI_PORT=8082
+      - SPARK_NO_DAEMONIZE=true
+    ports:
+      - "8082:8082"   # Web UI du Worker 2 (port différent)
+    depends_on:
+      - spark-master
+    volumes:
+      - ./data:/opt/spark-data

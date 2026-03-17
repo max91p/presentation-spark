@@ -1,0 +1,4 @@
+product,quantity,price,customer_id
+Laptop,4,999.99,1
+Smartphone,8,699.99,3
+Tablet,2,449.99,5

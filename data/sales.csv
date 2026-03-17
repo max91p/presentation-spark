@@ -1,0 +1,21 @@
+product,quantity,price,customer_id
+Laptop,2,999.99,1
+Smartphone,5,699.99,2
+Tablet,3,449.99,3
+Laptop,1,999.99,4
+Casque Audio,10,79.99,5
+Smartphone,2,699.99,1
+Clavier,8,49.99,6
+Souris,15,29.99,7
+Ecran,4,349.99,8
+Laptop,3,999.99,2
+Tablet,2,449.99,9
+Casque Audio,5,79.99,10
+Clavier,3,49.99,1
+Souris,7,29.99,3
+Smartphone,4,699.99,5
+Ecran,2,349.99,4
+Webcam,6,89.99,6
+Webcam,3,89.99,7
+Casque Audio,8,79.99,8
+Clavier,5,49.99,9

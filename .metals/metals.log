@@ -1,0 +1,69 @@
+2026.03.17 14:02:02 INFO  Started: Metals version 1.6.6 in folders '/home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark' for client Antigravity 1.107.0.[0m
+2026.03.17 14:02:02 INFO  Memory monitor started[0m
+2026.03.17 14:02:03 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.03.17 14:02:31 WARN  no build target for: /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/build.sbt[0m
+2026.03.17 14:02:31 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:02:32 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+Mar 17, 2026 2:02:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.03.17 14:02:32 WARN  Could not find semantic tokens for: file:///home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation%20spark/build.sbt[0m
+2026.03.17 14:02:49 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:02:51 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:02:51 WARN  Could not find semantic tokens for: file:///home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation%20spark/build.sbt[0m
+2026.03.17 14:04:53 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:05:40 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:06:56 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+Mar 17, 2026 2:06:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.03.17 14:06:57 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:13:55 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:16:35 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:16:35 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:16:35 WARN  Could not find semantic tokens for: file:///home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation%20spark/project/plugins.sbt[0m
+2026.03.17 14:16:40 WARN  no build target for: /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/build.sbt[0m
+2026.03.17 14:16:40 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:16:40 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:16:40 WARN  Could not find semantic tokens for: file:///home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation%20spark/build.sbt[0m
+2026.03.17 14:17:19 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:20:01 WARN  no build target for: /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala[0m
+2026.03.17 14:20:01 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:20:02 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:20:01 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:20:12 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:20:15 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:24:40 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:25:00 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:25:00 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7[0m
+Mar 17, 2026 2:25:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.17 14:26:46 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:26:46 WARN  no build target for: /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala[0m
+2026.03.17 14:26:48 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+Mar 17, 2026 2:26:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 86
+2026.03.17 14:26:48 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:26:48 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:29:04 WARN  no build target for: /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala[0m
+2026.03.17 14:29:04 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:29:04 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:29:04 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:29:04 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:29:17 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:29:19 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:29:23 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:32:16 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:32:17 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:32:58 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:32:59 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:35:28 WARN  no build target for: /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala[0m
+2026.03.17 14:35:28 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:35:28 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:35:28 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:36:14 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:36:14 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:36:18 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:36:26 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:40:03 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:41:45 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:49:35 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
+2026.03.17 14:49:59 INFO  no build target found for /home/cytech/Informatique_ing2/prog_fonctionnel_scala/presentation spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.7[0m
