@@ -14,6 +14,7 @@ object SparkDemo {
       .appName("Spark Demo - Présentation")
       .getOrCreate()
 
+    spark.sparkContext.setLogLevel("WARN")
     val sc = spark.sparkContext
     import spark.implicits._
 
